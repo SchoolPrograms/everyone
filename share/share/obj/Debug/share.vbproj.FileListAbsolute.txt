@@ -1,0 +1,11 @@
+C:\Users\alanmaclean\Documents\Visual Studio 2015\Repository\share\share\bin\Debug\share.exe.config
+C:\Users\alanmaclean\Documents\Visual Studio 2015\Repository\share\share\bin\Debug\share.exe
+C:\Users\alanmaclean\Documents\Visual Studio 2015\Repository\share\share\bin\Debug\share.pdb
+C:\Users\alanmaclean\Documents\Visual Studio 2015\Repository\share\share\bin\Debug\share.xml
+C:\Users\alanmaclean\Documents\Visual Studio 2015\Repository\share\share\obj\Debug\share.vbprojResolveAssemblyReference.cache
+C:\Users\alanmaclean\Documents\Visual Studio 2015\Repository\share\share\obj\Debug\share.Form1.resources
+C:\Users\alanmaclean\Documents\Visual Studio 2015\Repository\share\share\obj\Debug\share.Resources.resources
+C:\Users\alanmaclean\Documents\Visual Studio 2015\Repository\share\share\obj\Debug\share.vbproj.GenerateResource.Cache
+C:\Users\alanmaclean\Documents\Visual Studio 2015\Repository\share\share\obj\Debug\share.exe
+C:\Users\alanmaclean\Documents\Visual Studio 2015\Repository\share\share\obj\Debug\share.xml
+C:\Users\alanmaclean\Documents\Visual Studio 2015\Repository\share\share\obj\Debug\share.pdb
